@@ -51,6 +51,7 @@
                 <a href="#contact" class="nav-item nav-link">Contact</a>
             </div>
             <a href="https://www.linkedin.com/in/jannatul-faria/" class="btn btn-outline-primary d-none d-lg-block">Hire Me</a>
+            
             {{-- @if (Route::has('login'))
                 <nav class="-mx-3 flex flex-1 justify-end">
                     @auth
@@ -83,7 +84,7 @@
     </nav>
   
 
-
+     <!-- Header start -->
   
     <div class="container-fluid bg-primary d-flex align-items-center mb-5 py-5" id="home" style="min-height: 100vh;">
         <div class="container">
@@ -143,7 +144,7 @@
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
                 <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Quality</h1>
-                <h1 class="position-absolute text-uppercase">Education & Expericence</h1>
+                <h1 class="position-absolute text-uppercase">Education & Experience</h1>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -165,7 +166,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h3 class="mb-4">My Expericence</h3>
+                    <h3 class="mb-4">My Experience</h3>
                     <div class="border-left border-primary pt-2 pl-4 ml-2">
                         <div class="position-relative mb-4">
                             <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
